@@ -6,6 +6,8 @@
 ## 预览图
 ![1.png](https://i.loli.net/2018/09/06/5b90e745477d4.png)
 
+![xxx.gif](https://i.loli.net/2018/09/12/5b9870bb30cfe.gif)
+
 ## 预览链接
 👉 [点击预览](https://harry0071.github.io/vue-cnode/)
 
