@@ -15,3 +15,18 @@
 ## 技术栈
 vue + vue-cli + vue-router + axios + es6
 
+## 用法
+运行前请先到[官网](https://nodejs.org/zh-cn/download/)安装node.js      
+然后将项目clone到本地。           
+执行下面的命令
+
+``` bash
+# 首先安装依赖
+npm i
+
+# 然后运行项目
+npm start
+
+# 打包
+npm run build
+```
